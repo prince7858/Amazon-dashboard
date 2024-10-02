@@ -1,7 +1,7 @@
 # Amazon-dashboard
 
-I have created a dashboard in which it shows the data of movies.
+I have created a dashboard that shows the data for movies.
 
 ## Live Demo
 
-[View the live site here]()
+[View the live site here](https://prince7858.github.io/Amazon-dashboard/)
